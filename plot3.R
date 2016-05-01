@@ -4,7 +4,7 @@
 ##
 ## This R script is used to Course Project 1 Assignment of the Exploratory Data Analysis course at Coursera.
 ##
-## This one generate a plot grafic - Plot 2
+## This one generate a plot grafic - Plot 3
 ##
 library(dplyr)
 
